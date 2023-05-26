@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">I love technology and I am a self-taught software engineering student.</h3>
 
-<p align="left"> <a href="https://twitter.com/@jorge52197417" target="blank"><img src="https://img.shields.io/twitter/follow/@jorge52197417?logo=twitter&style=for-the-badge" alt="jorge52197417" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jorge52197417" target="blank"><img src="https://img.shields.io/twitter/follow/@jorge52197417?" alt="jorge52197417" /></a> </p>
 
 - 📫 How to reach me **jorgeroa080@gmail.com**
 
